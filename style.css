@@ -40,7 +40,7 @@ body{
 	display: block;
 	float: left;
 	padding: 5px 10px;
-	color: #fff;
+	color: rgb(255, 255, 255);
 	text-decoration: none;
 	border-right: 1px solid #fff;
 }
@@ -92,7 +92,7 @@ body{
 #footer
 {
 	clear: both;
-	background: #ccc;
+	background: rgb(149, 16, 238);
 	text-align: right;
 	padding: 20px;
 	height: 1%;
