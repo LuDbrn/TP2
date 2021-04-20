@@ -1,3 +1,6 @@
+body{
+	background-color: #f3a806;
+}
 #container
 {
 	margin: 0 30px;
@@ -8,7 +11,7 @@
 {
 	background: #ccc;
 	padding: 20px;
-	background-color: rgb(235, 23, 147);
+	background-color: rgb(235, 23, 217);
 }
 
 #header h1 { margin: 0; }
